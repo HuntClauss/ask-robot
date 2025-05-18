@@ -72,6 +72,9 @@ def interactive_input(ser):
     )
 
     ser.write("!interactive on".encode())
+
+    notes = ["c", "d", "e", "f", "g", "a", "h"]
+
     try:
         while True:
             key = get_key()
@@ -86,11 +89,17 @@ def interactive_input(ser):
                 print("\n[Exiting interactive mode]")
                 break
             else:
-                if key.lower() not in ["c", "d", "e", "f", "g", "a", "h"]:
-                    print(f"Invalid note!: {key}")
+                if key.lower() in notes:
+                    ser.write(f"#{key}\n".encode())
+                    print(f"Sent: {key}")
                     continue
-                ser.write(f"#{key}\n".encode())
-                print(f"Sent: {key}")
+                if int(key) in range(1, len(notes) + 1):
+                    ser.write(f"#{notes[int(key) - 1]}\n".encode())
+                    print(f"Sent: {key}")
+                    continue
+
+                print(f"Invalid note!: {key}")
+                continue
     finally:
         ser.write("!interactive off\n".encode())
 

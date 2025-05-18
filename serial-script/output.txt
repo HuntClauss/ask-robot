@@ -1,73 +1,92 @@
+[ATmega328P]: ed from input '!interactive off'
 [ATmega328P]: Turn on interactive mode
-[ATmega328P]: Play note: a
-[ATmega328P]: Moved to note: (0) a
-[ATmega328P]: Played note: (0) a
-[ATmega328P]: Play note: d
-[ATmega328P]: Moved to note: (0) d
-[ATmega328P]: Played note: (0) d
-[ATmega328P]: Play note: d
-[ATmega328P]: Moved to note: (0) d
-[ATmega328P]: Played note: (0) d
-[ATmega328P]: Play note: d
-[ATmega328P]: Moved to note: (0) d
-[ATmega328P]: Played note: (0) d
-[ATmega328P]: Play note: c
-[ATmega328P]: Moved to note: (0) c
-[ATmega328P]: Play note: d
-[ATmega328P]: Played note: (0) c
-[ATmega328P]: Play note: c
-[ATmega328P]: Moved to note: (0) c
-[ATmega328P]: Played note: (0) c
 [ATmega328P]: Play note: c
 [ATmega328P]: Moved to note: (0) c
 [ATmega328P]: Played note: (0) c
 [ATmega328P]: Play note: d
 [ATmega328P]: Moved to note: (0) d
-[ATmega328P]: Play note: c
 [ATmega328P]: Played note: (0) d
-[ATmega328P]: Play note: c
-[ATmega328P]: Moved to note: (0) c
-[ATmega328P]: Played note: (0) c
-[ATmega328P]: Play note: d
-[ATmega328P]: Play note: d
-[ATmega328P]: Moved to note: (0) d
-[ATmega328P]: Played note: (0) d
-[ATmega328P]: Play note: c
-[ATmega328P]: Play note: c
-[ATmega328P]: Moved to note: (0) c
-[ATmega328P]: Played note: (0) c
-[ATmega328P]: Play note: c
-[ATmega328P]: Play note: c
-[ATmega328P]: Moved to note: (0) c
-[ATmega328P]: Played note: (0) c
-[ATmega328P]: Play note: c
-[ATmega328P]: Play note: c
-[ATmega328P]: Moved to note: (0) c
-[ATmega328P]: Played note: (0) c
-[ATmega328P]: Play note: d
-[ATmega328P]: Play note: c
-[ATmega328P]: Play note: d
-[ATmega328P]: Moved to note: (0) d
-[ATmega328P]: Play note: c
-[ATmega328P]: Play note: d
-[ATmega328P]: Played note: (0) d
-[ATmega328P]: Play note: d
-[ATmega328P]: Play note: c
-[ATmega328P]: Play note: d
-[ATmega328P]: Moved to note: (0) d
-[ATmega328P]: Played note: (0) d
-[ATmega328P]: Play note: c
-[ATmega328P]: Play note: d
-[ATmega328P]: Play note: c
-[ATmega328P]: Play note: d
-[ATmega328P]: Moved to note: (0) d
-[ATmega328P]: Played note: (0) d
-[ATmega328P]: Play note: c
-[ATmega328P]: Play note: d
-[ATmega328P]: Play note: c
+[ATmega328P]: Play note: e
 [ATmega328P]: Play note: e
 [ATmega328P]: Moved to note: (0) e
 [ATmega328P]: Played note: (0) e
+[ATmega328P]: Play note: f
+[ATmega328P]: Moved to note: (0) f
+[ATmega328P]: Played note: (0) f
+[ATmega328P]: Play note: g
+[ATmega328P]: Moved to note: (0) g
+[ATmega328P]: Played note: (0) g
+[ATmega328P]: Play note: a
+[ATmega328P]: Moved to note: (0) a
+[ATmega328P]: Played note: (0) a
+[ATmega328P]: Play note: f
+[ATmega328P]: Moved to note: (0) f
+[ATmega328P]: Played note: (0) f
+[ATmega328P]: Play note: e
+[ATmega328P]: Moved to note: (0) e
+[ATmega328P]: Played note: (0) e
+[ATmega328P]: Play note: f
+[ATmega328P]: Moved to note: (0) f
+[ATmega328P]: Played note: (0) f
+[ATmega328P]: Play note: g
+[ATmega328P]: Moved to note: (0) g
+[ATmega328P]: Played note: (0) g
+[ATmega328P]: Play note: a
+[ATmega328P]: Moved to note: (0) a
+[ATmega328P]: Played note: (0) a
+[ATmega328P]: Play note: f
+[ATmega328P]: Moved to note: (0) f
+[ATmega328P]: Played note: (0) f
+[ATmega328P]: Play note: f
+[ATmega328P]: Moved to note: (0) f
+[ATmega328P]: Played note: (0) f
+[ATmega328P]: Play note: f
+[ATmega328P]: Moved to note: (0) f
+[ATmega328P]: Played note: (0) f
+[ATmega328P]: Play note: h
+[ATmega328P]: Moved to note: (0) h
+[ATmega328P]: Played note: (0) h
+[ATmega328P]: Play note: g
+[ATmega328P]: Moved to note: (0) g
+[ATmega328P]: Played note: (0) g
+[ATmega328P]: Play note: c
+[ATmega328P]: Moved to note: (0) c
+[ATmega328P]: Played note: (0) c
+[ATmega328P]: Play note: d
+[ATmega328P]: Moved to note: (0) d
+[ATmega328P]: Played note: (0) d
+[ATmega328P]: Play note: e
+[ATmega328P]: Moved to note: (0) e
+[ATmega328P]: Played note: (0) e
+[ATmega328P]: Play note: f
+[ATmega328P]: Moved to note: (0) f
+[ATmega328P]: Played note: (0) f
+[ATmega328P]: Play note: g
+[ATmega328P]: Moved to note: (0) g
+[ATmega328P]: Played note: (0) g
+[ATmega328P]: Play note: a
+[ATmega328P]: Moved to note: (0) a
+[ATmega328P]: Played note: (0) a
+[ATmega328P]: Play note: h
+[ATmega328P]: Moved to note: (0) h
+[ATmega328P]: Played note: (0) h
+[ATmega328P]: Play note: h
+[ATmega328P]: Moved to note: (0) h
+[ATmega328P]: Played note: (0) h
+[ATmega328P]: Play note: h
+[ATmega328P]: Moved to note: (0) h
+[ATmega328P]: Played note: (0) h
+[ATmega328P]: Play note: h
+[ATmega328P]: Moved to note: (0) h
+[ATmega328P]: Played note: (0) h
+[ATmega328P]: Play note: a
+[ATmega328P]: Moved to note: (0) a
+[ATmega328P]: Played note: (0) a
+[ATmega328P]: Play note: g
+[ATmega328P]: Moved to note: (0) g
+[ATmega328P]: Played note: (0) g
+[ATmega328P]: Play note: f
+[ATmega328P]: Moved to note: (0) f
+[ATmega328P]: Played note: (0) f
 [ATmega328P]: Turn off interactive mode
 [ATmega328P]: Received from input '!interactive off'
-[ATmega328P]: Received from input 'it'
