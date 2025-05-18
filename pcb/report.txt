@@ -1,0 +1,75 @@
+Info: Processing symbol 'J2:'.
+Info: Processing symbol 'J3:'.
+Info: Processing symbol 'J4:'.
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'SW1:'.
+Info: Processing symbol 'U1:Package_DIP:DIP-28_W7.62mm'.
+Add net unconnected-(U1-PB0-Pad14).
+Add net unconnected-(U1-PB5-Pad19).
+Connected U1 pin 18 to unconnected-(U1-PB4-Pad18).
+Add net unconnected-(U1-PB4-Pad18).
+Connected U1 pin 17 to unconnected-(U1-PB3-Pad17).
+Add net unconnected-(U1-PB3-Pad17).
+Connected U1 pin 16 to unconnected-(U1-PB2-Pad16).
+Add net unconnected-(U1-PB2-Pad16).
+Connected U1 pin 15 to unconnected-(U1-PB1-Pad15).
+Add net unconnected-(U1-PB1-Pad15).
+Connected U1 pin 14 to unconnected-(U1-PB0-Pad14).
+Connected U1 pin 21 to unconnected-(U1-AREF-Pad21).
+Connected U1 pin 13 to Net-(J3-Pin_1).
+Add net Net-(J3-Pin_1).
+Connected U1 pin 12 to Net-(J4-Pin_1).
+Add net Net-(J4-Pin_1).
+Connected U1 pin 24 to unconnected-(U1-PC1-Pad24).
+Connected U1 pin 28 to unconnected-(U1-PC5-Pad28).
+Add net unconnected-(U1-PC5-Pad28).
+Connected U1 pin 27 to unconnected-(U1-PC4-Pad27).
+Add net unconnected-(U1-PC4-Pad27).
+Connected U1 pin 26 to unconnected-(U1-PC3-Pad26).
+Add net unconnected-(U1-PC3-Pad26).
+Connected U1 pin 25 to unconnected-(U1-PC2-Pad25).
+Add net unconnected-(U1-PC2-Pad25).
+Connected U1 pin 19 to unconnected-(U1-PB5-Pad19).
+Add net unconnected-(U1-PC1-Pad24).
+Connected U1 pin 23 to unconnected-(U1-PC0-Pad23).
+Add net unconnected-(U1-PC0-Pad23).
+Connected U1 pin 22 to /GND.
+Add net unconnected-(U1-XTAL2/PB7-Pad10).
+Add net unconnected-(U1-AREF-Pad21).
+Connected U1 pin 20 to /5V.
+Add net Net-(J1-Pin_1).
+Added U1 (footprint 'Package_DIP:DIP-28_W7.62mm').
+Changed REF** reference designator to U1.
+Changed U1 value from DIP-28_W7.62mm to ATmega328P-P.
+Updated U1 symbol association from  to /bfa4ab7d-0923-48b7-9605-3bdb612ed7d8.
+Updated U1 properties.
+Add net Net-(U1-~{RESET}/PC6).
+Connected U1 pin 1 to Net-(U1-~{RESET}/PC6).
+Add net unconnected-(U1-PD0-Pad2).
+Connected U1 pin 2 to unconnected-(U1-PD0-Pad2).
+Add net unconnected-(U1-PD1-Pad3).
+Connected U1 pin 3 to unconnected-(U1-PD1-Pad3).
+Add net unconnected-(U1-PD2-Pad4).
+Add net unconnected-(U1-PD3-Pad5).
+Connected U1 pin 11 to Net-(J1-Pin_1).
+Connected U1 pin 10 to unconnected-(U1-XTAL2/PB7-Pad10).
+Connected U1 pin 9 to unconnected-(U1-XTAL1/PB6-Pad9).
+Add net unconnected-(U1-XTAL1/PB6-Pad9).
+Connected U1 pin 8 to /GND.
+Add net /GND.
+Connected U1 pin 7 to /5V.
+Add net /5V.
+Connected U1 pin 6 to unconnected-(U1-PD4-Pad6).
+Add net unconnected-(U1-PD4-Pad6).
+Connected U1 pin 5 to unconnected-(U1-PD3-Pad5).
+Connected U1 pin 4 to unconnected-(U1-PD2-Pad4).
+Error: Cannot add SW1 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add J4 (no footprint assigned).
+Error: Cannot add J3 (no footprint assigned).
+Error: Cannot add J2 (no footprint assigned).
+Error: Cannot add J1 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 6.

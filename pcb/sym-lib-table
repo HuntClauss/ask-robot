@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Switch")(type "Legacy")(uri "/home/clauss/Sync/pc/ask/Switch.lib")(options "")(descr ""))
+)
